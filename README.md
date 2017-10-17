@@ -1,6 +1,6 @@
 # Node.js-Express-MongoDB CRUD sample Application
 
-This is a simple Node.js CRUD application using MongoDB.
+This is a simple Node.js CRUD application using MongoDB  .
 
 It is based on
 [https://github.com/ijason/NodeJS-Sample-App](https://github.com/ijason/NodeJS-Sample-App) and has the following features:
